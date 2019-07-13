@@ -47,7 +47,3 @@
                   :href href
                   :dispatch dispatch
                   :active-nav active-nav}])]))
-
-(defn foo
-  []
-  (println "hello"))
