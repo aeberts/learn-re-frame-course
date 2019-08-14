@@ -1,5 +1,10 @@
 # Next: Section 14 Form Group
 
+# 2019-09-14: Section 14 form-group
+
+Implemented through section 14 - form-group
+- refactored FormGroup component into form-group
+
 # 2019-09-12: Section 13 Log In
 
 - Implemented through section 13 - "Log in"
