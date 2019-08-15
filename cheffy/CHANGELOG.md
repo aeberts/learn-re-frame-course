@@ -1,5 +1,13 @@
 # Next: Section 14 Form Group
 
+# 2019-08-14: Section 15 log-in-subs
+
+Implemented log-in subscriptions
+- Added subscription to nav view
+- Added namespaces to joker
+- Added pom.xml for Cursive project import
+- Added .idea folder to .gitignore
+
 # 2019-08-14: Section 15 log-in-event-fx
 
 Implemented through section 15 - log-in-event-fx

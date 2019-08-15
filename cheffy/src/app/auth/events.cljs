@@ -12,7 +12,7 @@
 
         (not correct-password?)
         {:db (assoc-in db [:errors :email] "Wrong password")}
-        
+
         correct-password?
         {:db (-> db
                (assoc-in [:auth :uid] email)
